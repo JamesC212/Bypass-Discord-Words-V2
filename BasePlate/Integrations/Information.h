@@ -1,0 +1,1 @@
+// This is a program designed to bypass and badword bots on discord.
